@@ -10,3 +10,4 @@ git push -u maître d'origine
 "Modification Internet"
  
 git remote add source master (url)
+modifier le 19.10.2020
